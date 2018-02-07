@@ -8,6 +8,10 @@
 
 using namespace std;
 
+/*
+  Design and flow credit to github.com/mcrossen
+*/
+
 int main(int argc, char ** argv) {
 
   // Testing variables

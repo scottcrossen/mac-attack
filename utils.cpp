@@ -1,5 +1,9 @@
 #include "utils.h"
 
+/*
+  Helper functions credit to github.com/mcrossen
+*/
+
 uint32_t utils::hex_to_int(string hex_string) {
   // Just alias the C call
   return strtol(hex_string.c_str(), NULL, 16);
