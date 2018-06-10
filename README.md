@@ -4,7 +4,7 @@ A computer security demonstration
 
 ### Description
 
-A simple MAC-extension attack implemented in C++. A docker-build system is included for cross-platform development and isolation. It also faciliates the rebuilding process whenever a change is made to source files.
+A simple MAC-extension attack implemented in C++.
 
 ### Contributors
 
