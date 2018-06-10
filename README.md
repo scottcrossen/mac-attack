@@ -1,6 +1,6 @@
 # Mac Attack
 
-A Computer Security Demonstration
+A computer security demonstration
 
 ### Description
 
